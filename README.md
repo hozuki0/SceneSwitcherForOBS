@@ -1,0 +1,2 @@
+# SceneSwitcherForOBS
+アクティブなウィンドウに応じてSceneを切り替えるツール

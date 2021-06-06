@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SceneSwitcherForOBS", "SceneSwitcherForOBS.csproj", "{4B7798DD-3B20-432A-AA15-EC1EF8977FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7798DD-3B20-432A-AA15-EC1EF8977FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7798DD-3B20-432A-AA15-EC1EF8977FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7798DD-3B20-432A-AA15-EC1EF8977FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7798DD-3B20-432A-AA15-EC1EF8977FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F295EF3F-3709-4838-AA64-D3C65EA31F88}
+	EndGlobalSection
+EndGlobal

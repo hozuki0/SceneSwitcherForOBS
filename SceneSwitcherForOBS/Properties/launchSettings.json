@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SceneSwitcherForOBS": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\project\\SceneSwitcherForOBS\\SceneSwitcherForOBS\\application_info.json"
+    }
+  }
+}
